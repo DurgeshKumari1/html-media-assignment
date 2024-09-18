@@ -1,0 +1,30 @@
+1. What is SEO and explain the importance of SEO?
+
+- Search engine optimization (SEO) is the practice of optimizing a website's content, structure, and overall online 
+presence to improve its visibility and ranking in search engine results pages (SERPs). 
+- It involves techniques like keyword research, on-page optimization, link building, and technical SEO 
+(more on those later) to make the website appealing to both search engines and users. 
+- Businesses engage in SEO to get found and capture demand. Which can increase website traffic, drive conversions, 
+and increase sales. 
+
+Importance of SEO -
+
+a) Enhance User Experience (UX)
+SEO is not only about search engines but good SEO practices improve the user experience and usability of a website.
+
+b) Build Credibility With Users
+Users trust search engines, and having a presence in the top positions for the keywords the user is searching 
+increases the website’s trust.
+
+c) Rankings and visibility
+When searching for something online, users are most likely to interact with the top 10 Google results. Proper SEO 
+helps you rank on the first page (top 10 results) for the relevant keywords. This allows you to gain more organic 
+visibility, puts you right in front of potential customers, and enhances the chance of users clicking and exploring 
+your site.
+
+d) Increased web traffic
+Getting site visitors through paid ads may be a good strategy, but it’s not feasible in the long run. If potential 
+users can’t find your website, your sales opportunities will decline significantly. SEO, when done right, increases 
+the organic traffic for your website and attracts new and relevant users. The beauty of organic traffic is it brings 
+in users on the merit of your website and content’s quality. This helps you rank on the first page and establishes 
+credibility in your site, which increases your chances of sales and profitability.

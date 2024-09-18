@@ -1,0 +1,19 @@
+d) List any 3 ways which helps us in improving the accessibility of HTML.
+
+1. Assign alt tags for images
+Images on a webpage provide great value to users. Nonetheless, they can create barriers for users with limited or 
+impaired vision. Therefore, assigning alt tags to images will provide a description of the images allowing users 
+to understand the image through the use of a screen reader. Alt tags also contribute to a higher SEO score on 
+Google.
+
+2. Use colors carefully
+Colors can help your users easily distinguish different sets of information. However, color blindness and other 
+disabilities can make it difficult for users to find information, call-to-action buttons, or other aspects when 
+developers fail to maintain a proper contrast of colors.
+
+3. Turn dynamic content into accessible content
+When embedding videos or gifs into your website, it is important to provide closed captions and text alternatives 
+for users with hearing or visual impairments. Additionally, use ARIA properties when content on a webpage is added 
+or updated without having to refresh the page, which will ensure that screen readers become aware of the new content.
+
+

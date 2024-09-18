@@ -1,0 +1,22 @@
+5. Define Favicon with example.
+
+a) A favicon is a small square icon associated with a particular website.
+b) Regarding origin, the term favicon combines two words: “favorite” and “icon.”
+c) So, a favicon is your company’s favorite icon. It’s a symbol that represents your brand or website.
+d) A favicon is a critical part of your site identity alongside your site title, tagline, and logo.
+
+For example:
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Favicon</title>
+        <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    </head>
+    <body>
+        <h1>This is a Heading</h1>
+        <p>This is a paragraph.</p>
+    </body>
+</html>
